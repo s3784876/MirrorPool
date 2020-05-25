@@ -1,0 +1,16 @@
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/obj/Debug/netcoreapp3.1/mirror-pool.csprojAssemblyReference.cache
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/obj/Debug/netcoreapp3.1/mirror-pool.csproj.CoreCompileInputs.cache
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/obj/Debug/netcoreapp3.1/mirror-pool.AssemblyInfoInputs.cache
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/obj/Debug/netcoreapp3.1/mirror-pool.AssemblyInfo.cs
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/bin/Debug/netcoreapp3.1/mirror-pool
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/bin/Debug/netcoreapp3.1/mirror-pool.deps.json
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/bin/Debug/netcoreapp3.1/mirror-pool.runtimeconfig.json
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/bin/Debug/netcoreapp3.1/mirror-pool.runtimeconfig.dev.json
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/bin/Debug/netcoreapp3.1/mirror-pool.dll
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/bin/Debug/netcoreapp3.1/mirror-pool.pdb
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/bin/Debug/netcoreapp3.1/ShellProgressBar.dll
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/bin/Debug/netcoreapp3.1/SubtitlesParser.dll
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/obj/Debug/netcoreapp3.1/mirror-pool.csproj.CopyComplete
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/obj/Debug/netcoreapp3.1/mirror-pool.dll
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/obj/Debug/netcoreapp3.1/mirror-pool.pdb
+/mnt/plexmedia/plex/tv/mlp/mirror-pool/obj/Debug/netcoreapp3.1/mirror-pool.genruntimeconfig.cache
